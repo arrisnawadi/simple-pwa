@@ -1,0 +1,21 @@
+{
+	"name": "Ilmu Ekosistem",
+	"short_name": "Ekosist",
+	"description": "Aplikasi Pembelajaran Mengenai Ekosistem",
+	"start_url": "/index.html",
+	"display": "standalone",
+	"background-color": "#2E7D32",
+	"theme_color": "#2E7D32",
+	"icons": [
+		{
+			"src": "/img/icon-512.png",
+			"sizes": "512x512",
+			"type": "image/png"
+		},
+		{
+			"src": "/img/icon-192.png",
+			"sizes": "192x192",
+			"type": "image/png"
+		}
+	]
+}
